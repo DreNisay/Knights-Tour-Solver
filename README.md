@@ -1,6 +1,6 @@
 # Knights-Tour-Solver
 Developers:
-Chua, Mary Elizabeth E.
+Chua, Mary Elizabeth E.,
 Nisay, Deiondre Judd V.
 
 In accordance to a course project of CMSC 162: Artificial Intelligence
